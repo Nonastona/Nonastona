@@ -1,17 +1,45 @@
-# Nonastona Repository
+# Rohan Uprety Portfolio
 
-Welcome to the Nonastona repository! This is a special repository where you can find information about me, Rohan Uprety. This README.md file is designed to appear on my profile, so let's get started!
+Welcome to the Nonastona repository! This is a curated space where you can learn more about Rohan Uprety and his journey in the world of technology and creativity. This README.md file has been thoughtfully crafted to provide a snapshot of Rohan's skills, experiences, and accomplishments, all designed to appear on his GitHub profile.
+
+## About Me
+
+Greetings! I am Rohan Uprety, a dedicated and forward-thinking individual deeply passionate about technology, web development, and design. With a strong background in coding and a creative flair, I embark on endeavors that blend the realms of innovation and aesthetics.
+
+## Skills & Expertise
+
+- **Web Development:** Proficient in front-end and back-end technologies, capable of crafting interactive and responsive web experiences.
+- **Design Aesthetics:** A keen eye for design, merging functionality with visual appeal to create captivating user interfaces.
+- **Problem Solving:** A natural problem solver, equipped with analytical thinking and the ability to tackle complex challenges.
+
+## Portfolio Highlights
+
+Discover a selection of my noteworthy projects that showcase my skills and capabilities:
+
+1. **Project Name:** E-Commerce Website
+   - **Description:** Developed a dynamic e-commerce platform with user authentication, shopping cart functionality, and secure payment integration.
+   - **Link:** [View Project](#)
+
+   
+   - **Description:** Designed a personalized portfolio website to showcase projects, skills, and achievements in a visually engaging manner.
+   - **Link:** [View Project](#)
+
+## Connect with Me
+
+Let's engage and explore possibilities together:
+
+- **Email:** rohanupreti3@gmail.com
+- **GitHub:** [@nonastona](https://github.com/nonastona)
+- **LinkedIn:** [Rohan Uprety](#)
+
+Feel free to reach out for collaborations, discussions, or just to say hello!
+
+
+
 
 ## About Me
 
 Hey there! I'm Rohan Uprety, a curious and passionate individual who loves learning and exploring various topics. From technology to creative pursuits, I'm always eager to dive into new adventures.
-
-## Contact Details
-
-- **Name:** Rohan Uprety
-- **Contact:** +9779824983671
-- **Email:** rohanupreti3@gmail.com
-- **GitHub:** [@nonastona](https://github.com/nonastona)
 
 ## Portfolio
 
